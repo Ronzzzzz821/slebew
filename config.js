@@ -27,7 +27,7 @@ global.APIKeys = { // APIKey Here
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://hardianto.xyz': 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://api.lolhuman.xyz': 'Imanmon'
 }
 global.packname = data.namabot
